@@ -21,30 +21,12 @@ class Navbar extends Component {
                         </div>
                         <div className="collapse navbar-collapse" id="banlank_main_menu">
                             <ul className="navbar-nav menu-open">
-                                <li className="menu-item-has-children current-menu-item">
-                                    <Link className="initiate-scripts" to={'/'}>Home</Link>
-                                    <ul className="sub-menu">
-                                        <li><Link className="initiate-scripts" to={'/home-one'}>Home 01</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/home-two'}>Home 02</Link></li>
-                                    </ul>
-                                </li>
-                                <li><Link className="initiate-scripts" to={'/loan'}>Loans</Link></li>
+                                <li><Link className="initiate-scripts" to={'/'}>Home</Link></li>
                                 <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
-                                <li><Link className="initiate-scripts" to={'/services'}>Services</Link></li>
-                                <li className="menu-item-has-children"><Link className="initiate-scripts" to={'/blog'}>Pages</Link>
+                                <li className="menu-item-has-children"><Link className="initiate-scripts" to={'/services'}>Services</Link>
                                     <ul className="sub-menu">
                                         <li><Link className="initiate-scripts" to={'/loan'}>Loans</Link></li>
                                         <li><Link className="initiate-scripts" to={'/apply-loan'}>Apply Loans</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/services'}>Services</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/blog'}>Blog</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/blog-single'}>Blog Single</Link></li>
-                                    </ul>
-                                </li>
-                                <li className="menu-item-has-children"><Link className="initiate-scripts" to={'blog'}>Blog</Link>
-                                    <ul className="sub-menu">
-                                        <li><Link className="initiate-scripts" to={'/blog'}>Blog</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/blog-single'}>Blog Single</Link></li>
                                     </ul>
                                 </li>
                                 <li><Link className="initiate-scripts" to={'/contact'}>Contact</Link></li>

@@ -1,5 +1,5 @@
-import React, {Component} from "react";
-import {Link} from "react-router-dom";
+import React, { Component } from "react";
+import { Link } from "react-router-dom";
 
 class Footer extends Component {
     render() {
@@ -25,17 +25,15 @@ class Footer extends Component {
                                     <div className="widget widget-links">
                                         <h4 className="widget-title">Links.</h4>
                                         <ul className="widget-list">
-                                            <li><Link className="initiate-scripts" to={'/services'}>Banking Way</Link></li>
-                                            <li><Link className="initiate-scripts" to={'/services'}>FAQs</Link></li>
+                                            <li><Link className="initiate-scripts" to={'/'}>Home</Link></li>
                                             <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
                                             <li><Link className="initiate-scripts" to={'/contact'}>Contact Us</Link></li>
-                                            <li><Link className="initiate-scripts" to={'/'}>Home</Link></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div className="col-xl-2 col-lg-3 col-md-6">
                                     <div className="widget widget-about">
-                                        <h4 className="widget-title">About Us.</h4>
+                                        <h4 className="widget-title">Services.</h4>
                                         <ul className="widget-list">
                                             <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
                                             <li><Link className="initiate-scripts" to={'/blog'}>Blog</Link></li>
@@ -48,7 +46,6 @@ class Footer extends Component {
                                 <div className="col-lg-4 col-md-6">
                                     <div className="widget widget-contact">
                                         <h4 className="widget-title">Contact Us.</h4>
-                                        <p>Our E-Banking in the most poular in the world Many desktop publishing packages and web page editors now use thei.</p>
                                         <ul className="social-area">
                                             <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-facebook" /></Link></li>
                                             <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-twitter" /></Link></li>
@@ -62,22 +59,9 @@ class Footer extends Component {
                     </div>
                 </footer>
                 <div className="footer-bottom">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-6 align-self-center">
-                                <div className="text-lg-left text-center">
-                                    <ul>
-                                        <li><Link className="initiate-scripts" to={'/'}>Terms & Conditions</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/'}>Privacy Policy</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/'}>Sitemap</Link></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div className="col-lg-6 align-self-center">
-                                <div className="copy-right text-lg-right text-center">
-                                    @ 2020, E-Bankong all right reserved
-                                </div>
-                            </div>
+                    <div className="col-lg-12 align-self-center">
+                        <div className="copy-right text-center">
+                            @ 2020, PCBank all rights reserved
                         </div>
                     </div>
                 </div>

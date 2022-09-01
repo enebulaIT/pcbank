@@ -9,7 +9,7 @@ class Header extends Component {
                     <div className="row">
                         <div className="col-md-3 align-self-center">
                             <div className="logo d-lg-inline-block d-none">
-                                <Link className="initiate-scripts" to={'/'}><img src={process.env.PUBLIC_URL + '/assets/img/logo.png'} alt="img" /></Link>
+                                <Link className="initiate-scripts" to={'/'}><img className="logo-img" src={process.env.PUBLIC_URL + '/assets/img/logo.png'} alt="img" /></Link>
                             </div>
                         </div>
                         <div className="col-lg-9 col-md-12 text-lg-right text-center">
