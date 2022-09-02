@@ -9,7 +9,7 @@ class Header extends Component {
                     <div className="row">
                         <div className="col-md-3 align-self-center">
                             <div className="logo d-lg-inline-block d-none">
-                                <Link className="initiate-scripts" to={'/'}><img className="logo-img" src={process.env.PUBLIC_URL + '/assets/img/logo.png'} alt="img" /></Link>
+                                <Link className="initiate-scripts" to={'/'}><img className="logo-img" src={process.env.PUBLIC_URL + '/assets/img/logo.jpg'} alt="img" /></Link>
                             </div>
                         </div>
                         <div className="col-lg-9 col-md-12 text-lg-right text-center">
@@ -31,7 +31,7 @@ class Header extends Component {
                                     <p>Mon-Sat (10 AM - 6 PM)</p>
                                 </div>
                             </div>
-                            <button id="account" className={this.props.design === 'home_2' ? 'btn btn-round d-lg-inline-block d-none bg-pink' : 'btn btn-round d-lg-inline-block d-none'}>Open AN Account</button>
+                            {/* <button id="account" className={this.props.design === 'home_2' ? 'btn btn-round d-lg-inline-block d-none bg-pink' : 'btn btn-round d-lg-inline-block d-none'}>Open AN Account</button> */}
                         </div>
                     </div>
                 </div>

@@ -1,182 +1,59 @@
-import React, {Component} from "react";
-import {Link} from "react-router-dom";
+import React, { Component } from "react";
+import { Link } from "react-router-dom";
 
 class BlogSidebarArea extends Component {
     render() {
         return (
             <div className="blog_right_sidebar">
-                <aside className="single_sidebar_widget search_widget">
-                    <form action="#">
-                        <div className="form-group">
-                            <div className="input-group mb-3">
-                                <input type="text" className="form-control" placeholder='Search Keyword' onFocus="this.placeholder = ''" onBlur="this.placeholder = 'Search Keyword'" />
-                            </div>
-                        </div>
-                        <button className="btn btn-blue rounded-0 w-100 btn_1 boxed-btn" type="submit">Search</button>
-                    </form>
-                </aside>
 
                 <aside className="single_sidebar_widget post_category_widget">
-                    <h4 className="widget_title">Category</h4>
+                    <h4 className="widget_title">Services</h4>
                     <ul className="list cat-list">
                         <li>
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <p>Ebanking</p>
-                                <p>(37)</p>
+                            <Link to={'/mobile-banking'} className="d-flex initiate-scripts">
+                                <p>Mobile Banking</p>
                             </Link>
                         </li>
                         <li>
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <p>Credit Cards</p>
-                                <p>(10)</p>
+                            <Link to={'/rtgs'} className="d-flex initiate-scripts">
+                                <p>RTGS/NEFT</p>
                             </Link>
                         </li>
                         <li>
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <p>Financial Fraud</p>
-                                <p>(03)</p>
+                            <Link to={'/imps'} className="d-flex initiate-scripts">
+                                <p>IMPS</p>
                             </Link>
                         </li>
                         <li>
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <p>Making Money</p>
-                                <p>(11)</p>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <p>Personal Financial</p>
-                                <p>21</p>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <p>Mobile Banking (21)</p>
-                                <p>09</p>
-                            </Link>
-                        </li>
-                    </ul>
-                </aside>
-
-                <aside className="single_sidebar_widget popular_post_widget">
-                    <h3 className="widget_title">Recent Post</h3>
-                    <div className="media post_item">
-                        <img src={process.env.PUBLIC_URL + '/assets/img/post/post_1.png'} alt="post" />
-                        <div className="media-body">
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <h3>Personal Savings...</h3>
-                            </Link>
-                            <p>January 12, 2020</p>
-                        </div>
-                    </div>
-                    <div className="media post_item">
-                        <img src={process.env.PUBLIC_URL + '/assets/img/post/post_2.png'} alt="post" />
-                        <div className="media-body">
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <h3>Personal Mortgages</h3>
-                            </Link>
-                            <p>02 Hours ago</p>
-                        </div>
-                    </div>
-                    <div className="media post_item">
-                        <img src={process.env.PUBLIC_URL + '/assets/img/post/post_3.png'} alt="post" />
-                        <div className="media-body">
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <h3>Business Checking</h3>
-                            </Link>
-                            <p>03 Hours ago</p>
-                        </div>
-                    </div>
-                    <div className="media post_item">
-                        <img src={process.env.PUBLIC_URL + '/assets/img/post/post_4.png'} alt="post" />
-                        <div className="media-body">
-                            <Link to={'/blog'} className="d-flex initiate-scripts">
-                                <h3>Business Loans </h3>
-                            </Link>
-                            <p>01 Hours ago</p>
-                        </div>
-                    </div>
-                </aside>
-                <aside className="single_sidebar_widget tag_cloud_widget">
-                    <h4 className="widget_title">Tag Clouds</h4>
-                    <ul className="list">
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Savings</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Loans</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Services</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Money</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Mobile</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>E-Banking</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Credit Cards</Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>Internet Banking</Link>
-                        </li>
-                    </ul>
-                </aside>
-
-
-                <aside className="single_sidebar_widget instagram_feeds">
-                    <h4 className="widget_title">Instagram Feeds</h4>
-                    <ul className="instagram_row flex-wrap">
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL + '/assets/img/post/post_5.png'} alt="img" />
-                            </Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL + '/assets/img/post/post_6.png'} alt="img" />
-                            </Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL + '/assets/img/post/post_7.png'} alt="img" />
-                            </Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL + '/assets/img/post/post_8.png'} alt="img" />
-                            </Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL + '/assets/img/post/post_9.png'} alt="img" />
-                            </Link>
-                        </li>
-                        <li>
-                            <Link className="initiate-scripts" to={'/blog'}>
-                                <img className="img-fluid" src={process.env.PUBLIC_URL + '/assets/img/post/post_10.png'} alt="img" />
+                            <Link to={'/sms'} className="d-flex initiate-scripts">
+                                <p>SMS Alert</p>
                             </Link>
                         </li>
                     </ul>
                 </aside>
 
 
-                <aside className="single_sidebar_widget newsletter_widget">
-                    <h4 className="widget_title">Newsletter</h4>
 
-                    <form action="#">
-                        <div className="form-group">
-                            <input type="email" className="form-control" onFocus="this.placeholder = ''" onBlur="this.placeholder = 'Enter email'" placeholder='Enter email' required />
-                        </div>
-                        <button
-                            className="btn btn-blue button rounded-0 primary-bg text-white w-100 btn_1 boxed-btn"
-                            type="submit">Subscribe
-                        </button>
-                    </form>
+
+                <aside className="single_sidebar_widget newsletter_widget marquee-container">
+                    <h4 className="widget_title">Latest News</h4>
+
+                    <marquee direction="up" behavior="scroll" onmouseover="this.stop();" onmouseout="this.start();" class="my" scrollamount="3">
+
+                        <div class="newslist">
+                            <i class=""></i>&nbsp;
+                            <p> For IMPS / RTGS / NEFT inward remittance, please use IFS Code 'IBKL01642SD' </p><br />
+                        </div> <div class="newslist">
+                            <i class=""></i>&nbsp;
+                            <p> We are happy to announce the release of our Mobile Banking App. Register and continue to avail seamless banking services on mobile </p><br />
+                        </div> <div class="newslist">
+                            <i class=""></i>&nbsp;
+                            <p> Dear Customer, we would like to inform you that as per the latest amendment to TDS u/s 194N, Banks are required to deduct TDS @ 2% &amp; 5% on cumulative cash withdrawals in a financial year exceeding Rs. 20 lakhs &amp; Rs. 1 Crore, respectively. This is effective July 1, 2020 and applicable if the IT returns for previous 3 years have not been filed. Request you to submit the declaration form along with copy of ITR acknowledgment to your nearest branch or send the declaration form along with copy of ITR acknowledgment from your registered email address to accounts@dharatibank.com. Please write to us at accounts@dharatibank.com for any queries in this regard and ignore this message if you are exempted from TDS. </p><br />
+                        </div> 	         
+
+
+                    </marquee>
+
                 </aside>
             </div>
         );

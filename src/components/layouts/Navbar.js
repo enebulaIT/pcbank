@@ -25,8 +25,10 @@ class Navbar extends Component {
                                 <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
                                 <li className="menu-item-has-children"><Link className="initiate-scripts" to={'/services'}>Services</Link>
                                     <ul className="sub-menu">
-                                        <li><Link className="initiate-scripts" to={'/loan'}>Loans</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/apply-loan'}>Apply Loans</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/mobile-banking'}>Mobile Banking</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/rtgs'}>RTGS/NEFT</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/imps'}>IMPS</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/sms'}>SMS Alert</Link></li>
                                     </ul>
                                 </li>
                                 <li><Link className="initiate-scripts" to={'/contact'}>Contact</Link></li>

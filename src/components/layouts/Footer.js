@@ -12,7 +12,7 @@ class Footer extends Component {
                             <div className="row">
                                 <div className="col-lg-3 col-md-6">
                                     <div className="widget widget-address">
-                                        <Link className="widget-title initiate-scripts" to={'/'}><img src={process.env.PUBLIC_URL + '/assets/img/logo-2.png'} alt="logo" /></Link>
+                                        <Link className="widget-title initiate-scripts" to={'/'}><img src={process.env.PUBLIC_URL + '/assets/img/logo.jpg'} alt="logo" /></Link>
                                         <ul className="widget-list">
                                             <li>564, Manon road, F1 456 Caron Town.</li>
                                             <li>Office No 3456</li>

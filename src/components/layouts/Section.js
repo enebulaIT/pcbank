@@ -14,8 +14,8 @@ class Section extends Component {
         return (
             <>
                 <Preloader />
-                <Signin />
-                <Signup />
+                {/* <Signin />
+                <Signup /> */}
                 {/* <Topbar design={this.props.design} /> */}
                 <Header design={this.props.design} />
                 <Navbar />

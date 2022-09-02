@@ -5,3 +5,20 @@
 .custom-banner-img {
     height: 100%;
 }
+
+.marquee-container {
+    height: 500px;
+}
+
+.my {
+    height: 350px;
+}
+
+.mlogo {
+    width: 150px;
+}
+
+.android {
+    width: 100px;
+    float: left;
+}
