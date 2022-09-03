@@ -31,6 +31,32 @@ class Navbar extends Component {
                                         <li><Link className="initiate-scripts" to={'/sms'}>SMS Alert</Link></li>
                                     </ul>
                                 </li>
+                                <li className="menu-item-has-children"><Link className="initiate-scripts" to={'/services'}>Deposit</Link>
+                                    <ul className="sub-menu">
+                                        <li><Link className="initiate-scripts" to={'/saving-account'}>Saving Account</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/current-account'}>Current Account</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/fixed-deposit'}>Fixed Deposit</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/reccuring-deposit'}>Reccuring Deposit</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/deposit-interest'}>Deposit Interest Rate</Link></li>
+                                        <li><a class="initiate-scripts" href="https://phoenix-it.co.in/depositcalculator/">Deposit Calculator</a></li>
+                                    </ul>
+                                </li>
+                                <li className="menu-item-has-children"><Link className="initiate-scripts" to={'/services'}>Loan</Link>
+                                    <ul className="sub-menu">
+                                        <li><Link className="initiate-scripts" to={'/housing-loan'}>Housing Loan</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/property-loan'}>Propert (Mortgage) Loan</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/machinery-loan'}>Machinery Loan</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/vehicle-loan'}>Vehicle Loan</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/education-loan'}>Higher Education Loan</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/fd-loan'}>Loan/OD Against Fixed Deposit</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/nsc-kvp-loan'}>Loan/OD Against N.S.C/K.V.P</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/lic-loan'}>Loan/OD Against L.I.C Ploicy</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/cash-credit'}>Cash Credit</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/security-credit'}>Security Overdraft</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/intereest-rate'}>Loan Interest Rate</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/emi-calculator'}>EMI Calculator</Link></li>
+                                    </ul>
+                                </li>
                                 <li><Link className="initiate-scripts" to={'/contact'}>Contact</Link></li>
                             </ul>
                         </div>

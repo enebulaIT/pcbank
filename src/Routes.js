@@ -3,10 +3,8 @@ import {Router, Route, Switch, HashRouter} from "react-router-dom";
 import history from "./History";
 import HomeOne from "./components/HomeOne";
 import HomeTwo from "./components/HomeTwo";
-import Loan from "./components/Loan";
 import About from "./components/About";
 import Services from "./components/Services";
-import ApplyLoan from "./components/ApplyLoan";
 import Blog from "./components/Blog";
 import BlogSingle from "./components/BlogSingle";
 import Contact from "./components/Contact";
@@ -14,6 +12,18 @@ import MobileBanking from "./components/Services/MobileBanking";
 import RTGS from "./components/Services/Rtgs";
 import IMPS from "./components/Services/Imps";
 import SMSAlert from "./components/Services/SMSAlert";
+
+import SavingAccount from "./components/Deposit/SavingAccount";
+import CurrentAccount from "./components/Deposit/CurrentAccount";
+import FixedDeposit from "./components/Deposit/FixedDeposit";
+import ReccuringDeposit from "./components/Deposit/ReccuringDeposit";
+import DepositInterestRate from "./components/Deposit/DepositInterestRate";
+
+import HousingLoan from "./components/Loan/HousingLoan";
+import PropertyLoan from "./components/Loan/PropertyLoan";
+import MachineryLoan from "./components/Loan/MachineryLoan";
+import VehicleLoan from "./components/Loan/VehicleLoan";
+import HigherEducationLoan from "./components/Loan/HigherEducationLoan";
 
 class Routes extends Component {
     render() {
@@ -35,6 +45,26 @@ class Routes extends Component {
                         <Route exact path={'/rtgs'} render={(props) => (<RTGS {...props} />)} />
                         <Route exact path={'/imps'} render={(props) => (<IMPS {...props} />)} />
                         <Route exact path={'/sms'} render={(props) => (<SMSAlert {...props} />)} />
+
+                        <Route exact path={'/saving-account'} render={(props) => (<SavingAccount {...props} />)} />
+                        <Route exact path={'/current-account'} render={(props) => (<CurrentAccount {...props} />)} />
+                        <Route exact path={'/fixed-deposit'} render={(props) => (<FixedDeposit {...props} />)} />
+                        <Route exact path={'/reccuring-deposit'} render={(props) => (<ReccuringDeposit {...props} />)} />
+                        <Route exact path={'/deposit-interest'} render={(props) => (<DepositInterestRate {...props} />)} />
+                        <Route exact path={'/deposit-calculator'} render={(props) => (<SMSAlert {...props} />)} />
+                        
+                        <Route exact path={'/housing-loan'} render={(props) => (<HousingLoan {...props} />)} />
+                        <Route exact path={'/property-loan'} render={(props) => (<PropertyLoan {...props} />)} />
+                        <Route exact path={'/machinery-loan'} render={(props) => (<MachineryLoan {...props} />)} />
+                        <Route exact path={'/vehicle-loan'} render={(props) => (<VehicleLoan {...props} />)} />
+                        <Route exact path={'/education-loan'} render={(props) => (<HigherEducationLoan {...props} />)} />
+                        <Route exact path={'/fd-loan'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/nsc-kvp-loan'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/lic-loan'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/cash-credit'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/security-credit'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/intereest-rate'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/emi-calculator'} render={(props) => (<SMSAlert {...props} />)} />
 
                     </Switch>
                 </HashRouter>

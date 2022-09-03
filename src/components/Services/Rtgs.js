@@ -13,7 +13,7 @@ class RTGS extends Component {
                             <div className="col-lg-8 posts-list">
                                 <div className="single-post">
                                     <div className="blog_details">
-                                        <h2>RTGS Service</h2>
+                                        <h4>RTGS Service</h4>
                                         <p className="excert">Tranfer Your Funds Anywhere in india in minutes (Selected Banks and Branches) Minimum amount per transaction Rs. Two Lacks There is no upper ceiling of RTGS transactions.</p>
                                         <p>timing :-</p>
                                         <ul>

@@ -13,8 +13,8 @@ class SMSAlert extends Component {
                             <div className="col-lg-8 posts-list">
                                 <div className="single-post">
                                     <div className="blog_details">
-                                        <h2>SMS Alert
-                                        </h2>
+                                        <h4>SMS Alert
+                                        </h4>
                                         <ul>
                                             <li>
                                                 We are Providing SMS facility for all banking transaction.</li>

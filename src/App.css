@@ -22,3 +22,8 @@
     width: 100px;
     float: left;
 }
+
+.breadcrumb_content {
+    display: flex;
+    flex-direction: column;
+}
