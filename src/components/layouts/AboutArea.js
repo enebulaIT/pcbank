@@ -13,7 +13,7 @@ class AboutArea extends Component {
                                 <div className="section-title">
                                     <h2 className="title">Financial Statistics</h2>
 
-                                    <table class="table table-bordered table-hover table-responsive">
+                                    <table className="table table-bordered table-hover table-responsive">
                                         <thead>
                                             <tr style={{textAlign: "right", backgroundColor: "#30ccb4"}}>
                                                 <td colspan="5">

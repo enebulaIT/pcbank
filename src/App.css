@@ -31,3 +31,7 @@
 .single-work {
     height: 325px;
 }
+
+.table.table-bordered.table-hover.table-responsive {
+    display: inline-table;
+}

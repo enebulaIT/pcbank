@@ -19,9 +19,9 @@ class HomeOne extends Component {
             <Section design={'home_1'} breadcrumb={false}>
                 <Banner design={'home_1'} />
                 <MoneyOption design={'home_1'} />
-                <AboutArea design={'home_1'} />
                 <FunFactArea />
-                <ServiceArea design={'home_1'} />
+                <AboutArea design={'home_1'} />
+                {/* <ServiceArea design={'home_1'} /> */}
                 {/* <WorkArea /> */}
                 {/* <InvestorArea design={'home_1'} /> */}
                 {/* <BlogArea design={'home_1'} /> */}

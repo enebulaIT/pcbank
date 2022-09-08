@@ -14,10 +14,9 @@ class Footer extends Component {
                                     <div className="widget widget-address">
                                         <Link className="widget-title initiate-scripts" to={'/'}><img src={process.env.PUBLIC_URL + '/assets/img/logo.jpg'} alt="logo" /></Link>
                                         <ul className="widget-list">
-                                            <li>564, Manon road, F1 456 Caron Town.</li>
-                                            <li>Office No 3456</li>
-                                            <li>info@example.com</li>
-                                            <li>234-5825852763</li>
+                                            <li>8R3C+X7W, Cornal Pedhak Road,, near Raj Jewellers, Prajapati Nagar, Patel Nagar, Arya Nagar, Rajkot, Gujarat 360003</li>
+                                            <li><a href="mailto:admin@pcbank-rajkot.com">admin@pcbank-rajkot.com</a></li>
+                                            <li><a href="tel:08141907113">081419 07113</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -36,10 +35,10 @@ class Footer extends Component {
                                         <h4 className="widget-title">Services.</h4>
                                         <ul className="widget-list">
                                             <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
-                                            <li><Link className="initiate-scripts" to={'/blog'}>Blog</Link></li>
+                                            {/* <li><Link className="initiate-scripts" to={'/blog'}>Blog</Link></li> */}
                                             <li><Link className="initiate-scripts" to={'/contact'}>Contact Us</Link></li>
-                                            <li><Link className="initiate-scripts" to={'/'}>Sign in</Link></li>
-                                            <li><Link className="initiate-scripts" to={'/'}>My Account</Link></li>
+                                            {/* <li><Link className="initiate-scripts" to={'/'}>Sign in</Link></li>
+                                            <li><Link className="initiate-scripts" to={'/'}>My Account</Link></li> */}
                                         </ul>
                                     </div>
                                 </div>
@@ -50,7 +49,7 @@ class Footer extends Component {
                                             <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-facebook" /></Link></li>
                                             <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-twitter" /></Link></li>
                                             <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-linkedin" /></Link></li>
-                                            <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-pinterest" /></Link></li>
+                                            {/* <li><Link className="initiate-scripts" to={'/'}><i className="fa fa-pinterest" /></Link></li> */}
                                         </ul>
                                     </div>
                                 </div>

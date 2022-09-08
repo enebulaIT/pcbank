@@ -11,10 +11,10 @@ class About extends Component {
         return (
             <Section design={'home_1'} breadcrumb={true} title={'About Us'}>
                 <AboutArea design={'home_1'} />
-                <ServiceArea design={'home_1'} />
-                <PricingArea design={'home_1'} />
-                <WorkArea />
-                <PartnerArea />
+                {/* <ServiceArea design={'home_1'} />
+                <PricingArea design={'home_1'} /> */}
+                {/* <WorkArea />
+                <PartnerArea /> */}
             </Section>
         );
     }

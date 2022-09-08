@@ -16,7 +16,7 @@ class Contact extends Component {
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Address:</h4>
-                                        <span className="details"> St. Zip. Encinitas. 260-C North El Camino,  USA</span>
+                                        <span className="details"> 8R3C+X7W, Cornal Pedhak Road,, near Raj Jewellers, Prajapati Nagar, Patel Nagar, Arya Nagar, Rajkot, Gujarat 360003</span>
                                     </div>
                                 </div>
                             </div>
@@ -26,9 +26,8 @@ class Contact extends Component {
                                         <i className="fa fa-phone" />
                                     </div>
                                     <div className="content">
-                                        <h4 className="title">Phone & Fax</h4>
-                                        <span className="details">(888) 123-4567</span>
-                                        <span className="details">(123) 123-4567</span>
+                                        <h4 className="title">Phone</h4>
+                                        <span className="details"><a href="tel:08141907113">081419 07113</a></span>
                                     </div>
                                 </div>
                             </div>
@@ -40,8 +39,7 @@ class Contact extends Component {
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Email Address</h4>
-                                        <span className="details">support@example.com</span>
-                                        <span className="details">info@example.com</span>
+                                        <span className="details"><a href="mailto:admin@pcbank-rajkot.com">admin@pcbank-rajkot.com</a></span>
                                     </div>
                                 </div>
                             </div>
@@ -53,7 +51,7 @@ class Contact extends Component {
                                 <div className="contact-map">
                                     <div className="mapouter">
                                         <div className="gmap_canvas">
-                                            <iframe title="google map" id="gmap_canvas" src="https://maps.google.com/maps?q=Sheikh%20Tower%2C%20%20Bogra%205800&t=&z=13&ie=UTF8&iwloc=&output=embed" />
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14765.14874715052!2d70.820711!3d22.304976!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5ac5cfd5a3664269!2sshree%20parshwanath!5e0!3m2!1sen!2sin!4v1662656890806!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                         </div>
                                     </div>
                                 </div>
