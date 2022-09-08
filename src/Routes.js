@@ -24,6 +24,8 @@ import PropertyLoan from "./components/Loan/PropertyLoan";
 import MachineryLoan from "./components/Loan/MachineryLoan";
 import VehicleLoan from "./components/Loan/VehicleLoan";
 import HigherEducationLoan from "./components/Loan/HigherEducationLoan";
+import CashCredit from "./components/Loan/CashCredit";
+import LoanInterestRate from "./components/Loan/LoanInterestRate";
 
 class Routes extends Component {
     render() {
@@ -58,12 +60,12 @@ class Routes extends Component {
                         <Route exact path={'/machinery-loan'} render={(props) => (<MachineryLoan {...props} />)} />
                         <Route exact path={'/vehicle-loan'} render={(props) => (<VehicleLoan {...props} />)} />
                         <Route exact path={'/education-loan'} render={(props) => (<HigherEducationLoan {...props} />)} />
-                        <Route exact path={'/fd-loan'} render={(props) => (<SMSAlert {...props} />)} />
+                        {/* <Route exact path={'/fd-loan'} render={(props) => (<SMSAlert {...props} />)} />
                         <Route exact path={'/nsc-kvp-loan'} render={(props) => (<SMSAlert {...props} />)} />
-                        <Route exact path={'/lic-loan'} render={(props) => (<SMSAlert {...props} />)} />
-                        <Route exact path={'/cash-credit'} render={(props) => (<SMSAlert {...props} />)} />
-                        <Route exact path={'/security-credit'} render={(props) => (<SMSAlert {...props} />)} />
-                        <Route exact path={'/intereest-rate'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/lic-loan'} render={(props) => (<SMSAlert {...props} />)} /> */}
+                        <Route exact path={'/cash-credit'} render={(props) => (<CashCredit {...props} />)} />
+                        {/* <Route exact path={'/security-credit'} render={(props) => (<SMSAlert {...props} />)} /> */}
+                        <Route exact path={'/intereest-rate'} render={(props) => (<LoanInterestRate {...props} />)} />
                         <Route exact path={'/emi-calculator'} render={(props) => (<SMSAlert {...props} />)} />
 
                     </Switch>
