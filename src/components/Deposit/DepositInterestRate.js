@@ -29,47 +29,47 @@ class DepositInterestRate extends Component {
                                                         <p><strong>Depositor&nbsp; &nbsp; &nbsp;</strong></p>
                                                     </td>
                                                     <td>
-                                                        <p><strong>Bulk Depositor</strong></p>
-                                                        <p><strong>(15 Lacs &amp; Above)</strong></p>
-                                                    </td>
-                                                    <td>
                                                         <p><strong>Senior Citizen</strong></p>
                                                         <p><strong>Depositor</strong></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td>1</td>
-                                                    <td>15 days to 180 day</td>
-                                                    <td>3.50 %</td>
+                                                    <td>7 days to 90 day</td>
                                                     <td>3.50 %</td>
                                                     <td>3.50 %</td>
                                                 </tr>
                                                 <tr>
                                                     <td>2</td>
-                                                    <td>181 days to 365 Days</td>
-                                                    <td>4.00 %</td>
+                                                    <td>91 days to 181 Days</td>
                                                     <td>4.00 %</td>
                                                     <td>4.00 %</td>
                                                 </tr>
                                                 <tr>
                                                     <td>3</td>
-                                                    <td>13 months to 36 months</td>
-                                                    <td>5.75 %</td>
-                                                    <td>6.25 %</td>
-                                                    <td>6.25 %</td>
+                                                    <td>181 days to 364 Days</td>
+                                                    <td>4.50 %</td>
+                                                    <td>4.50 %</td>
                                                 </tr>
+
                                                 <tr>
                                                     <td>4</td>
-                                                    <td>37 months to 60 months</td>
-                                                    <td>6.50 %</td>
-                                                    <td>7.00 %</td>
-                                                    <td>7.00 %</td>
+                                                    <td>1 Year</td>
+                                                    <td>5.75 %</td>
+                                                    <td>6.00 %</td>
                                                 </tr>
+
                                                 <tr>
                                                     <td>5</td>
-                                                    <td>61 months to 120 months</td>
+                                                    <td>2 Year</td>
+                                                    <td>5.75 %</td>
                                                     <td>6.00 %</td>
-                                                    <td>6.50 %</td>
+                                                </tr>
+
+                                                <tr>
+                                                    <td>6</td>
+                                                    <td>3 Year</td>
+                                                    <td>6.00 %</td>
                                                     <td>6.50 %</td>
                                                 </tr>
                                             </tbody>

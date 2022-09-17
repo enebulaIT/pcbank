@@ -19,7 +19,7 @@ class Header extends Component {
                                 </div>
                                 <div className="media-body text-left">
                                     <p>Free Call To Us:</p>
-                                    <p>081419 07113</p>
+                                    <p>(0281) 2467857/59</p>
                                 </div>
                             </div>
                             <div className="media d-sm-inline-flex">
@@ -28,7 +28,7 @@ class Header extends Component {
                                 </div>
                                 <div className="media-body text-left">
                                     <p>Open Time: </p>
-                                    <p>Mon-Sat (10 AM - 6 PM)</p>
+                                    <p>Mon-Sat (2nd/4th Sat closed) (9:30 AM - 5:30 PM)</p>
                                 </div>
                             </div>
                             {/* <button id="account" className={this.props.design === 'home_2' ? 'btn btn-round d-lg-inline-block d-none bg-pink' : 'btn btn-round d-lg-inline-block d-none'}>Open AN Account</button> */}

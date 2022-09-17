@@ -25,7 +25,7 @@ class RTGS extends Component {
                                             <li>Name of the beneficiary customer.</li>
                                             <li>IFSC of receiving branch.</li>
                                             <li>Account number of the beneficiary customer.</li>
-                                            <li>10:00 am to 04:00 P.M. (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
+                                            <li>9:30 am to 5:30 pm (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
                                         </ul>
                                         <p>NEFT Service</p>
                                         <p>Reserve Bank of India has introduced a system called National Electronic Funds Transfer System (NEFT) through
@@ -43,9 +43,8 @@ class RTGS extends Component {
                                         </ul>
                                         <p>Eligibility</p>
                                         <ul>
-                                            <li>Customers of Shree Dharati Co-op Bank Ltd. can send/ receive remittances under NEFT Scheme to/ from any
+                                            <li>Customers of Shree Parswanath Co-op Bank Ltd can send/ receive remittances under NEFT Scheme to/ from any
                                                 destination Bank/ Branch which is registered with RBI’s NEFT System.</li>
-                                            <li>Presently more than 60,000 Branches of 91 member banks spread across the country participate in NEFT..</li>
                                         </ul>
                                         <p>Amount of Remittance:</p>
                                         <ul>
@@ -58,7 +57,7 @@ class RTGS extends Component {
                                         </ul>
                                         <p>Working of the Scheme:</p>
                                         <ul>
-                                            <li>Customers of&nbsp;Shree Dharati Co-op Bank Ltd. can send/ receive remittances under NEFT Scheme to/ from any
+                                            <li>Customers of&nbsp;Shree Parswanath Co-op Bank Ltd can send/ receive remittances under NEFT Scheme to/ from any
                                                 destination Bank/ Branch which is registered with RBI’s NEFT System.</li>
                                             <li>Presently more than 60,000 Branches of 91 member banks spread across the country participate in NEFT..</li>
                                             <li>There is no ceiling of minimum and maximum amount of remittance/ transaction.</li>
@@ -69,7 +68,7 @@ class RTGS extends Component {
                                                 Name, Account Type, Account Number and Amount to be remitted. Message will be sent in electronic form in a
                                                 highly secured manner through NEFT System to Beneficiary Bank’s Branch.</li>
                                             <li>Timings :-<br />
-                                                10:00 am to 04:00 P.M. (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
+                                                9:30 am to 5:30 pc (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
                                         </ul>
                                     </div>
                                 </div>

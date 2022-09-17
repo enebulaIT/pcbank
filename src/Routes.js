@@ -26,6 +26,10 @@ import VehicleLoan from "./components/Loan/VehicleLoan";
 import HigherEducationLoan from "./components/Loan/HigherEducationLoan";
 import CashCredit from "./components/Loan/CashCredit";
 import LoanInterestRate from "./components/Loan/LoanInterestRate";
+import GovtTaxCollection from "./components/Services/GovtTaxCollection";
+import PMJJBY from "./components/Services/PMJJBY";
+import NACH from "./components/Services/NACH";
+import CoreBanking from "./components/Services/CoreBanking";
 
 class Routes extends Component {
     render() {
@@ -54,12 +58,16 @@ class Routes extends Component {
                         <Route exact path={'/reccuring-deposit'} render={(props) => (<ReccuringDeposit {...props} />)} />
                         <Route exact path={'/deposit-interest'} render={(props) => (<DepositInterestRate {...props} />)} />
                         <Route exact path={'/deposit-calculator'} render={(props) => (<SMSAlert {...props} />)} />
+                        <Route exact path={'/govt-tax-collection'} render={(props) => (<GovtTaxCollection {...props} />)} />
+                        <Route exact path={'/pmjjby-pmsby'} render={(props) => (<PMJJBY {...props} />)} />
+                        <Route exact path={'/nach-ach'} render={(props) => (<NACH {...props} />)} />
+                        <Route exact path={'/core-banking'} render={(props) => (<CoreBanking {...props} />)} />
                         
                         <Route exact path={'/housing-loan'} render={(props) => (<HousingLoan {...props} />)} />
                         <Route exact path={'/property-loan'} render={(props) => (<PropertyLoan {...props} />)} />
                         <Route exact path={'/machinery-loan'} render={(props) => (<MachineryLoan {...props} />)} />
                         <Route exact path={'/vehicle-loan'} render={(props) => (<VehicleLoan {...props} />)} />
-                        <Route exact path={'/education-loan'} render={(props) => (<HigherEducationLoan {...props} />)} />
+                        {/* <Route exact path={'/education-loan'} render={(props) => (<HigherEducationLoan {...props} />)} /> */}
                         {/* <Route exact path={'/fd-loan'} render={(props) => (<SMSAlert {...props} />)} />
                         <Route exact path={'/nsc-kvp-loan'} render={(props) => (<SMSAlert {...props} />)} />
                         <Route exact path={'/lic-loan'} render={(props) => (<SMSAlert {...props} />)} /> */}

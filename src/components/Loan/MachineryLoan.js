@@ -59,6 +59,8 @@ class MachineryLoan extends Component {
                                             Conditions</h4>
                                         <ul>
                                             <li>
+                                                Property Mortgage required.</li>
+                                            <li>
                                                 Two guarantors are required.</li>
                                             <li>
                                                 Bank will sanction loan 80% of quotation amount for new machinery. Applicant has to deposit margin money

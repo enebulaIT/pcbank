@@ -17,9 +17,9 @@ class CurrentAccount extends Component {
                                         </h4>
                                         <ul>
                                             <li>
-                                                Customer can open Current Account with minimum balance or Rs.5000/-.</li>
+                                                Customer can open Current Account with minimum balance or Rs.3000/-.</li>
                                             <li>
-                                                We offer 50 pages cheque book.</li>
+                                                We offer 45 pages cheque book.</li>
                                             <li>
                                                 We offer nomination facility for all individual accounts and proprietory concern accounts.</li>
                                             <li>
@@ -30,7 +30,7 @@ class CurrentAccount extends Component {
                                                 purpose or any other purpose.</li>
                                             <li>
                                                 We are member of Deposit Insurance and Credit Guarantee Scheme [DICGC] in which customers deposits are
-                                                insured up to Rs. 1 Lac.</li>
+                                                insured up to Rs. 5 Lac.</li>
                                         </ul>
                                         <h4>
                                             Rules &amp; Regulation for Current Account</h4>
@@ -78,7 +78,7 @@ class CurrentAccount extends Component {
                                             <li>
                                                 Other proof acceptable by Bank.</li>
                                             <li>
-                                                <strong>Passport Size Photograph 2 Copies</strong>
+                                                <strong>Passport Size Photograph 4 Copies</strong>
                                             </li>
                                             <li>
                                                 <strong>Registration Certificate of firm/shop and establishment/S.S.I /VAT.</strong>
@@ -95,6 +95,9 @@ class CurrentAccount extends Component {
                                             </li>
                                             <li>
                                                 <strong>Introduction from existing Account Holder</strong>
+                                            </li>
+                                            <li>
+                                                <strong>Any other Government Approved document.</strong>
                                             </li>
                                         </ul>
                                         <h4>

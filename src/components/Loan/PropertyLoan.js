@@ -6,14 +6,14 @@ import BlogSidebarArea from "../layouts/BlogSidebarArea";
 class PropertyLoan extends Component {
     render() {
         return (
-            <Section design={'home_1'} breadcrumb={true} title={'Property Loan'}>
+            <Section design={'home_1'} breadcrumb={true} title={'Mortgage Loan (Property)'}>
                 <section className="blog_area single-post-area section-padding">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-8 posts-list">
                                 <div className="single-post">
                                     <div className="blog_details">
-                                        <h4>Property Loan</h4>
+                                        <h4>Mortgage Loan (Property)</h4>
                                         <h4>
                                             Applicant details :</h4>
                                         <ul>

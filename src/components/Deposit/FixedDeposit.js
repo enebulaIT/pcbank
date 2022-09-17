@@ -16,16 +16,16 @@ class FixedDeposit extends Component {
                                         <h4>Fixed Deposit
                                         </h4>
                                         <ul>
-                                            <li>Term deposit scheme is an attractive scheme to deposit your savings for fix period for 15 days to 120 Months
+                                            <li>Term deposit scheme is an attractive scheme to deposit your savings for fix period for 7 days to 36 Months
                                                 as per your future requirements.</li>
                                             <li>We provide attractive Interest Rates to our Customers from time to time.</li>
-                                            <li>We offer 0.50% extra Interest Rate to Senior Citizens on term deposits of above 1 year.</li>
+                                            <li>We offer 0.50% extra Interest Rate to Senior Citizens on term deposits of above 2 year.</li>
                                             <li>Guardian can open Minor's Term deposit A/c. When minor turns major then at maturity he/she can withdraw the
                                                 amount with his/her signature, after providing valid age proof.</li>
                                             <li>We offer nomination facility for all deposit accounts.</li>
                                             <li>We provide Monthly &amp; quarterly Interest payment to our customers on their existing Fix Deposits as per
                                                 their instruction &amp; RBI guidelines.</li>
-                                            <li>Loan and Overdraft facility is available against Term deposit receipt.</li>
+                                            <li>Loan and Overdraft facility is available against Term deposit receipt. For 1 year and above receipt.</li>
                                             <li>The maturity date of Loan and Overdraft Account against Fix Deposit is maturity date of Fix Deposit Receipt.
                                             </li>
                                             <li>TDS on Interest income will be deducted as per Income Tax Act.</li>

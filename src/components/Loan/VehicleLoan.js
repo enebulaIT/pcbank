@@ -17,7 +17,7 @@ class VehicleLoan extends Component {
                                         <ul>
                                             <li>
                                                 Hire Purchase Loan is available for purchase of two wheelers, three wheelers, four wheelers and for
-                                                Commercial vehicles and also for purchase of 5 years old car with good condition.</li>
+                                                Commercial vehicles and also for purchase of 3 years old car with good condition.</li>
                                         </ul>
                                         <h4>
                                             Applicant details :</h4>
@@ -30,7 +30,7 @@ class VehicleLoan extends Component {
                                             <li>
                                                 3 Photographs of Applicant</li>
                                             <li>
-                                                Address proof – electric bill /telephone bill (any one) As per KYC norms</li>
+                                                Address proof – electric bill /telephone bill/Aadhar card (any one) As per KYC norms</li>
                                             <li>
                                                 Photo proof – Pan card / Voter card / Driving license/Aadhar card (Any one) As per KYC norms</li>
                                             <li>
@@ -38,6 +38,8 @@ class VehicleLoan extends Component {
                                             <li>
                                                 Applicant has to show all original documents to the bank for verification with zerox copy. Original
                                                 documents will be returned to applicant after verification.</li>
+                                            <li>
+                                                Driving License</li>
                                         </ul>
                                         <h4>
                                             Guarantor Details</h4>
@@ -62,13 +64,15 @@ class VehicleLoan extends Component {
                                             <li>
                                                 Applicant has to take insurance of full value of vehicle in favour of bank.</li>
                                             <li>
-                                                The Loan for two wheelers, three wheelers will be repaid with interest in 36 to 60 equal monthly
+                                                The Loan for two wheelers, three wheelers will be repaid with interest in 36 equal monthly
                                                 instalments.</li>
+                                            <li>
+                                                The Loan for 4 wheelers will be repaid with interest in 84 equal monthly instalments.</li>
                                             <li>
                                                 Applicant have to pay margin amount to the bank. Bank will issue Banker cheque of full amount in the name of
                                                 dealer.</li>
                                             <li>
-                                                Applicant have to submit Xerox copy of invoice, receipt, insurance policy, RTO book showing Bank's lien
+                                                Applicant have to submit invoice, receipt, insurance policy, RTO book showing Bank's lien
                                                 recorded with RTO.</li>
                                             <li>
                                                 Applicant has to take share @ 2.5% of the limit.</li>

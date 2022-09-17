@@ -15,7 +15,7 @@ class LoanInterestRate extends Component {
                                     <div className="blog_details">
                                         <h4>Loan Interest Rate</h4>
                                         <p>&nbsp;</p>
-                                        <p><strong>Interest rate on Advances Effective From Dt:01-08-2021</strong></p>
+                                        <p><strong>Interest rate on Advances Effective From Dt:07-09-2022</strong></p>
                                         <p>&nbsp;</p>
                                         <table border="" class="fnt-13" id="t01">
                                             <tbody>
@@ -26,138 +26,53 @@ class LoanInterestRate extends Component {
                                                 </tr>
                                                 <tr>
                                                     <td>1</td>
-                                                    <td><strong>Building Loan</strong></td>
-                                                    <td>&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>For House Purchase (Women)</td>
-                                                    <td>07.25% to 08.25%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>For House Purchase (Other)</td>
-                                                    <td>07.50% to 08.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>For Commercial Purchase</td>
-                                                    <td>10.00% to 11.00%</td>
+                                                    <td><strong>Secured OD</strong></td>
+                                                    <td>9.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>2</td>
                                                     <td><strong>Cash Credit</strong></td>
-                                                    <td>10.50% to 12.00%</td>
+                                                    <td>9.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>3</td>
-                                                    <td><strong>Secured Overdraft</strong></td>
-                                                    <td>11.00% to 12.50%</td>
+                                                    <td><strong>Housing Loan</strong></td>
+                                                    <td>8.00%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>4</td>
                                                     <td><strong>Machinery Loan</strong></td>
-                                                    <td>&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>New Purchase</td>
-                                                    <td>09.50% to 10.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>Old Purchase</td>
-                                                    <td>11.90%</td>
+                                                    <td>9.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>5</td>
-                                                    <td><strong>Furniture Term Loan</strong></td>
-                                                    <td>10.50% to 11.50%</td>
+                                                    <td><strong>Term Loan</strong></td>
+                                                    <td>9.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>6</td>
-                                                    <td><strong>Industrial Term Loan</strong></td>
-                                                    <td>10.50% to 11.50%</td>
+                                                    <td><strong>4 wheeler Loan(New)</strong></td>
+                                                    <td>8.00%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>7</td>
-                                                    <td><strong>Business Loan</strong></td>
-                                                    <td>10.50% to 11.50%</td>
+                                                    <td><strong>4 wheeler Loan(Old)</strong></td>
+                                                    <td>10.00%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>8</td>
-                                                    <td><strong>Property Loan (Mortgage Loan)</strong></td>
-                                                    <td>&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>Resident&nbsp; Property</td>
-                                                    <td>10.50% to 11.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>Commercial Property (BL)</td>
-                                                    <td>10.75% to 11.75%</td>
+                                                    <td><strong>2 wheeler Loan</strong></td>
+                                                    <td>11.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>9</td>
-                                                    <td><strong>Consumption / Personal Loan (CS)</strong></td>
-                                                    <td>15.00%</td>
+                                                    <td><strong>Consumer Loan</strong></td>
+                                                    <td>10.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>10</td>
-                                                    <td><strong>Higher Education Loan</strong></td>
-                                                    <td>11.00%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>11</td>
-                                                    <td><strong>Vehicles Loan</strong></td>
-                                                    <td>&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>For Individual (New Vehicle)</td>
-                                                    <td>8.50% to 10.00%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>For Individual (Old Car Loan) (Up to 5 year old)</td>
-                                                    <td>11.00%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>For Commercial Vehicle</td>
-                                                    <td>12.00%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>12</td>
-                                                    <td><strong>Builder Finance</strong></td>
-                                                    <td>12.00% to 13.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>13</td>
-                                                    <td><strong>N.S.C. / K.V.P. Loan</strong></td>
-                                                    <td>8.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>14</td>
-                                                    <td><strong>L.I.C. Policy Against Loan/OD</strong></td>
-                                                    <td>8.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>15</td>
-                                                    <td><strong>Loan Ag. F.D.&nbsp; / F.D. Ag. O.D.</strong></td>
-                                                    <td>&nbsp;</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>Individual</td>
-                                                    <td>FD RATE + 1</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>&nbsp;</td>
-                                                    <td>Third Party</td>
-                                                    <td>FD RATE + 2</td>
+                                                    <td><strong>Mortgage Loan</strong></td>
+                                                    <td>9.50%</td>
                                                 </tr>
                                             </tbody>
                                         </table>

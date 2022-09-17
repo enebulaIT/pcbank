@@ -17,8 +17,8 @@ class SavingAccount extends Component {
                                         </h4>
                                         <ul>
                                             <li>We offer 3.00&nbsp;% Interest on Savings Bank Deposit.</li>
-                                            <li>Customer can open Saving Account with minimum balance or Rs.500.</li>
-                                            <li>Customer has to maintain minimum balance or Rs.1000/- for Cheque Book facility.</li>
+                                            <li>Customer can open Saving Account with minimum balance or Rs.1000.</li>
+                                            <li>Customer has to maintain minimum balance or Rs.1000/-</li>
                                             <li>We also open zero balance saving account with certain conditions/ limited transaction.</li>
                                             <li>We offer nomination facility for all deposit accounts.</li>
                                             <li>Customer can open single/joint account and that account can jointly,operate as per instruction like Any one,
@@ -26,7 +26,7 @@ class SavingAccount extends Component {
                                             <li>Customer can open Savings A/c for his/her minor children.</li>
                                             <li>We offer Computerised passbook to our Account holders.</li>
                                             <li>We are member of Deposit Insurance and Credit Guarantee Scheme in which customers deposits are insured up to
-                                                Rs. 1 Lac.</li>
+                                                Rs. 5 Lac.</li>
                                         </ul>
                                         <p>Rules &amp; Regulation for Savings Bank Account</p>
                                         <ul>
@@ -61,10 +61,11 @@ class SavingAccount extends Component {
                                                 Gas Bill <strong>5</strong>. Latest LIC Premium receipt
                                             </li>
                                             <li>Other proof acceptable by Bank.</li>
-                                            <li><strong>Passport Size Photograph 2 Copies</strong></li>
+                                            <li><strong>Passport Size Photograph 4 Copies</strong></li>
                                             <li><strong>Pan Card </strong></li>
                                             <li><strong>Birth Certificate for minor account </strong></li>
                                             <li>Introduction From Existing account Holder</li>
+                                            <li>Aadhar Card</li>
                                         </ul>
                                         <p>Download Form</p>
                                         <p>Download A/c Opening Form</p>

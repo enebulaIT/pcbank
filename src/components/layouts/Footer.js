@@ -14,7 +14,7 @@ class Footer extends Component {
                                     <div className="widget widget-address">
                                         <Link className="widget-title initiate-scripts" to={'/'}><img src={process.env.PUBLIC_URL + '/assets/img/logo.jpg'} alt="logo" /></Link>
                                         <ul className="widget-list">
-                                            <li>8R3C+X7W, Cornal Pedhak Road,, near Raj Jewellers, Prajapati Nagar, Patel Nagar, Arya Nagar, Rajkot, Gujarat 360003</li>
+                                            <li>"Blue Diamond",<br/> 9-Ramakrishna nagar,<br/> Swami vivekanand Road,<br/> Rajkot-360001</li>
                                             <li><a href="mailto:admin@pcbank-rajkot.com">admin@pcbank-rajkot.com</a></li>
                                             <li><a href="tel:08141907113">081419 07113</a></li>
                                         </ul>
@@ -34,11 +34,14 @@ class Footer extends Component {
                                     <div className="widget widget-about">
                                         <h4 className="widget-title">Services.</h4>
                                         <ul className="widget-list">
-                                            <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
-                                            {/* <li><Link className="initiate-scripts" to={'/blog'}>Blog</Link></li> */}
-                                            <li><Link className="initiate-scripts" to={'/contact'}>Contact Us</Link></li>
-                                            {/* <li><Link className="initiate-scripts" to={'/'}>Sign in</Link></li>
-                                            <li><Link className="initiate-scripts" to={'/'}>My Account</Link></li> */}
+                                        <li><Link className="initiate-scripts" to={'/mobile-banking'}>Mobile Banking</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/rtgs'}>RTGS/NEFT</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/imps'}>IMPS</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/sms'}>SMS Alert</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/govt-tax-collection'}>Govt TAX Collection</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/pmjjby-pmsby'}>PMJJBY/PMSBY</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/nach-ach'}>NACH/ACH/ABPS</Link></li>
+                                        <li><Link className="initiate-scripts" to={'/core-banking'}>Core Banking</Link></li>
                                         </ul>
                                     </div>
                                 </div>

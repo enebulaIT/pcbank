@@ -35,3 +35,19 @@
 .table.table-bordered.table-hover.table-responsive {
     display: inline-table;
 }
+
+/* .custom-investor-table {
+    border: 1px solid;
+    margin: 0 auto;
+} */
+
+table.custom-investor-table,
+.custom-investor-table td,
+.custom-investor-table th {
+    border: 1px solid;
+}
+
+table.custom-investor-table {
+    width: 100%;
+    border-collapse: collapse;
+}

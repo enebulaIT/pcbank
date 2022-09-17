@@ -35,7 +35,7 @@ class BlogSidebarArea extends Component {
 
 
 
-                <aside className="single_sidebar_widget newsletter_widget marquee-container">
+                {/* <aside className="single_sidebar_widget newsletter_widget marquee-container">
                     <h4 className="widget_title">Latest News</h4>
 
                     <marquee direction="up" behavior="scroll" onmouseover="this.stop();" onmouseout="this.start();" class="my" scrollamount="3">
@@ -54,7 +54,7 @@ class BlogSidebarArea extends Component {
 
                     </marquee>
 
-                </aside>
+                </aside> */}
             </div>
         );
     }

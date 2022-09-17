@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Section from "../layouts/Section";
-import { Link } from "react-router-dom";
 import BlogSidebarArea from "../layouts/BlogSidebarArea";
 
 class HousingLoan extends Component {
@@ -16,7 +15,7 @@ class HousingLoan extends Component {
                                         <h4>Housing Loan</h4>
                                         <ul>
                                             <li>
-                                                Housing Loan upto Rs.70/lacs is available for construction/purchase of old/new flat, bungalow,raw house and
+                                                Housing Loan upto Rs.60/lacs is available for construction/purchase of old/new flat, bungalow,raw house and
                                                 also for carryout addition/alteration in the existing residential house.</li>
                                         </ul>
                                         <h4>
@@ -72,7 +71,7 @@ class HousingLoan extends Component {
                                             <li>
                                                 Applicant will have to take insurance of the building in favour of bank.</li>
                                             <li>
-                                                Loan amount with interest will be repaid within 120 equal monthly instalments.</li>
+                                                Loan amount with interest will be repaid within 240 equal monthly instalments.</li>
                                             <li>
                                                 Applicant has to submit original share certificate of the Society/Association, Municipal Tax bill, Tax
                                                 receipt, sales deed etc, for registered mortgage of the property.</li>

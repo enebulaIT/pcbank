@@ -16,7 +16,7 @@ class Contact extends Component {
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Address:</h4>
-                                        <span className="details"> 8R3C+X7W, Cornal Pedhak Road,, near Raj Jewellers, Prajapati Nagar, Patel Nagar, Arya Nagar, Rajkot, Gujarat 360003</span>
+                                        <span className="details"> "Blue Diamond",<br/> 9-Ramakrishna nagar,<br/> Swami vivekanand Road,<br/>Rajkot-360001</span>
                                     </div>
                                 </div>
                             </div>
@@ -27,7 +27,7 @@ class Contact extends Component {
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Phone</h4>
-                                        <span className="details"><a href="tel:08141907113">081419 07113</a></span>
+                                        <span className="details"><a href="tel:02812467857">(0281) 2467857/89</a></span>
                                     </div>
                                 </div>
                             </div>
