@@ -17,7 +17,7 @@ class VehicleLoan extends Component {
                                         <ul>
                                             <li>
                                                 Hire Purchase Loan is available for purchase of two wheelers, three wheelers, four wheelers and for
-                                                Commercial vehicles and also for purchase of 3 years old car with good condition.</li>
+                                                Commercial vehicles and also for purchase of 5 years old car with good condition.</li>
                                         </ul>
                                         <h4>
                                             Applicant details :</h4>
@@ -39,7 +39,7 @@ class VehicleLoan extends Component {
                                                 Applicant has to show all original documents to the bank for verification with zerox copy. Original
                                                 documents will be returned to applicant after verification.</li>
                                             <li>
-                                                Driving License</li>
+                                                Driving License (Mandatory)</li>
                                         </ul>
                                         <h4>
                                             Guarantor Details</h4>
@@ -59,7 +59,7 @@ class VehicleLoan extends Component {
                                             Conditions</h4>
                                         <ul>
                                             <li>
-                                                We give loan up to 85% of quotation of basic price. for transport/ commercial vehical to shareholders and
+                                                We give loan up to 90% of quotation of basic price. for transport/ commercial vehical to shareholders and
                                                 Bank will give loan upto 75% of quotation of basic price to the nominal members.</li>
                                             <li>
                                                 Applicant has to take insurance of full value of vehicle in favour of bank.</li>

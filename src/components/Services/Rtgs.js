@@ -25,7 +25,7 @@ class RTGS extends Component {
                                             <li>Name of the beneficiary customer.</li>
                                             <li>IFSC of receiving branch.</li>
                                             <li>Account number of the beneficiary customer.</li>
-                                            <li>9:30 am to 5:30 pm (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
+                                            <li>9:30 am to 3:30 pm (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
                                         </ul>
                                         <p>NEFT Service</p>
                                         <p>Reserve Bank of India has introduced a system called National Electronic Funds Transfer System (NEFT) through
@@ -63,12 +63,12 @@ class RTGS extends Component {
                                             <li>There is no ceiling of minimum and maximum amount of remittance/ transaction.</li>
                                             <li>Credit to the Beneficiary Account will be given by Beneficiary’s Bank’s Branch on the same day [chargable
                                                 same day] and in case of holiday/ after business hours, credit will be given on next business date.</li>
-                                            <li>Collect NEFT slip book from the Branch.<br />
+                                            <li>Collect NEFT slip book from the Bank.<br />
                                                 Mention beneficiary Bank and Branch name with IFSC code (Indian Financial System Code) and beneficiary’s
                                                 Name, Account Type, Account Number and Amount to be remitted. Message will be sent in electronic form in a
                                                 highly secured manner through NEFT System to Beneficiary Bank’s Branch.</li>
                                             <li>Timings :-<br />
-                                                9:30 am to 5:30 pc (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
+                                                9:30 am to 3:30 pm (Monday to Saturday) (2nd and 4th Saturday holiday)</li>
                                         </ul>
                                     </div>
                                 </div>

@@ -27,7 +27,7 @@ class Contact extends Component {
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Phone</h4>
-                                        <span className="details"><a href="tel:02812467857">(0281) 2467857/89</a></span>
+                                        <span className="details"><a href="tel:02812467857">(0281) 2467857/59</a></span>
                                     </div>
                                 </div>
                             </div>
@@ -51,7 +51,7 @@ class Contact extends Component {
                                 <div className="contact-map">
                                     <div className="mapouter">
                                         <div className="gmap_canvas">
-                                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14765.14874715052!2d70.820711!3d22.304976!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5ac5cfd5a3664269!2sshree%20parshwanath!5e0!3m2!1sen!2sin!4v1662656890806!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1845.861382048748!2d70.7930275081753!3d22.288489307190012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959cbe7ad92828b%3A0x700d0ec16b1bae55!2sSafal%203!5e0!3m2!1sen!2sin!4v1663876519127!5m2!1sen!2sin" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                         </div>
                                     </div>
                                 </div>

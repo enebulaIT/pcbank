@@ -63,7 +63,7 @@ class MachineryLoan extends Component {
                                             <li>
                                                 Two guarantors are required.</li>
                                             <li>
-                                                Bank will sanction loan 80% of quotation amount for new machinery. Applicant has to deposit margin money
+                                                Bank will sanction loan 90% of quotation amount for new machinery. Applicant has to deposit margin money
                                                 with bank. Bank will issue banker cheque to dealer.</li>
                                             <li>
                                                 Loan will be repaid with interest within 60 equal monthly instalments.</li>

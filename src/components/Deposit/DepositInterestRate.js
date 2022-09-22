@@ -76,7 +76,8 @@ class DepositInterestRate extends Component {
                                         </table>
                                         <p>Note</p>
                                         <ul>
-                                            <li>Senior Citizen gets 0.5% interest higher for the deposit of above 1 year.</li>
+                                            <li>Senior Citizen gets 0.25% interest higher for the deposit of above 1-2 year.</li>
+                                            <li>Senior Citizen gets 0.50% interest higher for the deposit of above 2 year.</li>
                                         </ul>
                                     </div>
                                 </div>

@@ -16,7 +16,7 @@ class IMPS extends Component {
                                         <h4>IMPS (Immediate Payment Service)
                                         </h4>
                                         <ul>
-                                            <li>The IMPS (Immediate Payment Service) from PC Bank helps you access your bank account and transfer funds instantly and securely. You can send money using PC Mobile banking app. We enable you to transfer funds from your PC Bank account to any PC Bank or non-PC Bank account. The beneficiary account is credited immediately when a fund transfer request is made from your side..</li>
+                                            <li>The IMPS (Immediate Payment Service) from Parswanath Bank helps you access your bank account and transfer funds instantly and securely. You can send money using Parswanath Mobile banking app. We enable you to transfer funds from your Parswanath Bank account to any Parswanath Bank or non-Parswanath Bank account. The beneficiary account is credited immediately when a fund transfer request is made from your side..</li>
                                             <li>This service is available 24x7, throughout the year including Sundays and any bank holiday..</li>
                                             <li>Use IMPS service to transfer funds anytime, from anywhere using our Mobile app</li>
                                         </ul>

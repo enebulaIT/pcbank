@@ -35,7 +35,7 @@ class FixedDeposit extends Component {
                                         <p>Rules &amp; Regulation for Fix Deposit</p>
                                         <ul>
                                             <li>Depositor has to fulfill KYC norms as per RBI directive.</li>
-                                            <li>Customer can Open Fix Deposit A/c with minimum of Rs.500/-</li>
+                                            <li>Customer can Open Fix Deposit A/c with minimum of Rs.1000/-</li>
                                             <li>Guardian can open Minor's Fix Deposit A/c. When minor turn major then after providing valid age proof he/she
                                                 can withdraw the amount with his/her signature.</li>
                                             <li>No penalty charges in premature withdrawal of deposit.</li>
@@ -51,9 +51,9 @@ class FixedDeposit extends Component {
                                         </ul>
                                         <p>(A) Photo Proof (Any One)</p>
                                         <ul>
-                                            <li><strong>1</strong>.Pan Card <strong>2.</strong>Aadhar Card <strong>3.</strong>Passport,
-                                                <strong>4</strong>.Driving License, <strong>5</strong>.Voter ID Card, <strong>6</strong>.Government Approved
-                                                College/university I.Card, <strong>7</strong>. Government/Semi government/Department I.Card</li>
+                                            <li><strong>1</strong>.Pan Card <strong>2.</strong>Passport,
+                                                <strong>3</strong>.Driving License, <strong>4</strong>.Voter ID Card, <strong>5</strong>.Government Approved
+                                                College/university I.Card, <strong>6</strong>. Government/Semi government/Department I.Card</li>
                                         </ul>
                                         <p>(B) Address Proof(Any One)</p>
                                         <ul>

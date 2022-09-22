@@ -50,22 +50,22 @@ class SavingAccount extends Component {
                                         <p>Requirements to open Savings Bank Account</p>
                                         <ul>
                                             <li><strong>Valid Photo I.D. &amp; Address Proof</strong></li>
-                                            <li>(A) Any one of proof (Photo I.D.)<br/>
-                                                <strong>1</strong>.Passport, <strong>2</strong>.Driving License, <strong>3</strong>. Voter ID Card,
-                                                <strong>4</strong>. Government Approved College/university I.Card, <strong>5</strong>. Government/Semi
+                                            <li>(A) Any one of proof (Photo I.D.)<br />
+                                                <strong>1</strong>.Pan card or Form-60 (Mandatory), <strong>2</strong>.Passport, <strong>3</strong>.Driving License, <strong>4</strong>. Voter ID Card,
+                                                <strong>5</strong>. Government Approved College/university I.Card, <strong>6</strong>. Government/Semi
                                                 government/Department I.Card
                                             </li>
-                                            <li>(B) Address Proof(Any One)<br/>
-                                                <strong>1</strong>. Electricity Bill (not more than 2 months old) <strong>2</strong>. BSNL Landline
-                                                Telephone Bill (not more than 2 months old), <strong>3</strong>. Municipal Tax Bill <strong>4</strong>. GSPC
-                                                Gas Bill <strong>5</strong>. Latest LIC Premium receipt
+                                            <li>(B) Address Proof(Any One)<br />
+                                                <strong>1</strong>. Aadhaar card <strong>2</strong>. Electricity Bill (not more than 2 months old) <strong>3</strong>. BSNL Landline
+                                                Telephone Bill (not more than 2 months old), <strong>4</strong>. Municipal Tax Bill <strong>5</strong>. GSPC
+                                                Gas Bill <strong>6</strong>. Latest LIC Premium receipt
                                             </li>
                                             <li>Other proof acceptable by Bank.</li>
                                             <li><strong>Passport Size Photograph 4 Copies</strong></li>
-                                            <li><strong>Pan Card </strong></li>
+                                            {/* <li><strong>Pan Card </strong></li> */}
                                             <li><strong>Birth Certificate for minor account </strong></li>
                                             <li>Introduction From Existing account Holder</li>
-                                            <li>Aadhar Card</li>
+                                            {/* <li>Aadhar Card</li> */}
                                         </ul>
                                         <p>Download Form</p>
                                         <p>Download A/c Opening Form</p>

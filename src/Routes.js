@@ -16,7 +16,7 @@ import SMSAlert from "./components/Services/SMSAlert";
 import SavingAccount from "./components/Deposit/SavingAccount";
 import CurrentAccount from "./components/Deposit/CurrentAccount";
 import FixedDeposit from "./components/Deposit/FixedDeposit";
-import ReccuringDeposit from "./components/Deposit/ReccuringDeposit";
+// import ReccuringDeposit from "./components/Deposit/ReccuringDeposit";
 import DepositInterestRate from "./components/Deposit/DepositInterestRate";
 
 import HousingLoan from "./components/Loan/HousingLoan";
@@ -55,7 +55,7 @@ class Routes extends Component {
                         <Route exact path={'/saving-account'} render={(props) => (<SavingAccount {...props} />)} />
                         <Route exact path={'/current-account'} render={(props) => (<CurrentAccount {...props} />)} />
                         <Route exact path={'/fixed-deposit'} render={(props) => (<FixedDeposit {...props} />)} />
-                        <Route exact path={'/reccuring-deposit'} render={(props) => (<ReccuringDeposit {...props} />)} />
+                        {/* <Route exact path={'/reccuring-deposit'} render={(props) => (<ReccuringDeposit {...props} />)} /> */}
                         <Route exact path={'/deposit-interest'} render={(props) => (<DepositInterestRate {...props} />)} />
                         <Route exact path={'/deposit-calculator'} render={(props) => (<SMSAlert {...props} />)} />
                         <Route exact path={'/govt-tax-collection'} render={(props) => (<GovtTaxCollection {...props} />)} />

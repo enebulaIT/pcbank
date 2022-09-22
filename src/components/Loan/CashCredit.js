@@ -74,7 +74,7 @@ class CashCredit extends Component {
                                                 Original documents of property to be submitted to the bank. Registered mortgage of property to be done in
                                                 favour of bank.Bank charge will be noted in society’s book.</li>
                                             <li>
-                                                Valuation of the property will be required for old property. Bank will give loan of 60% of valuation
+                                                Valuation of the property will be required for old property. Bank will give loan of 70% of valuation
                                                 amount.(for old property)and new property bank will give loan of 80%.</li>
                                             <li>
                                                 Applicant will have to take insurance of the building in favour of bank.</li>

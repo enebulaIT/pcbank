@@ -62,7 +62,7 @@ class CurrentAccount extends Component {
                                             Requirements to Open Current Bank Account</h4>
                                         <ul>
                                             <li>
-                                                <strong>Valid Photo I.D. &amp; Address Proof of proprietor / partners / directors </strong>
+                                                <strong>Valid Photo I.D. &amp; Address Proof of proprietor / partners / directors (Self Attested)</strong>
                                             </li>
                                             <li>
                                                 (A) Any one of proof for all partners/ directors or proprietor (Photo Id)<br/>
@@ -76,12 +76,12 @@ class CurrentAccount extends Component {
                                                     Telephone Bill (not more than 2 months old) <strong>3</strong>.Municipal Tax Bill
                                             </li>
                                             <li>
-                                                Other proof acceptable by Bank.</li>
+                                                Other proof acceptable by Bank. (Mandatory)</li>
                                             <li>
                                                 <strong>Passport Size Photograph 4 Copies</strong>
                                             </li>
                                             <li>
-                                                <strong>Registration Certificate of firm/shop and establishment/S.S.I /VAT.</strong>
+                                                <strong>Registration Certificate of firm/shop and establishment/S.S.I /GST Certificate.</strong>
                                             </li>
                                             <li>
                                                 <strong>Partnership deed </strong>

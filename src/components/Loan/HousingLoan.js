@@ -67,7 +67,7 @@ class HousingLoan extends Component {
                                                 favour of bank.Bank charge will be noted in society’s book.</li>
                                             <li>
                                                 Valuation of the property will be required for old property. Bank will give loan of 60% of valuation
-                                                amount.(for old property)and new property bank will give loan of 80%.</li>
+                                                amount.(for old property)and new property bank will give loan of 100%.</li>
                                             <li>
                                                 Applicant will have to take insurance of the building in favour of bank.</li>
                                             <li>

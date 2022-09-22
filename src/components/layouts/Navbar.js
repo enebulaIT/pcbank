@@ -40,7 +40,7 @@ class Navbar extends Component {
                                         <li><Link className="initiate-scripts" to={'/saving-account'}>Saving Account</Link></li>
                                         <li><Link className="initiate-scripts" to={'/current-account'}>Current Account</Link></li>
                                         <li><Link className="initiate-scripts" to={'/fixed-deposit'}>Fixed Deposit</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/reccuring-deposit'}>Reccuring Deposit</Link></li>
+                                        {/* <li><Link className="initiate-scripts" to={'/reccuring-deposit'}>Reccuring Deposit</Link></li> */}
                                         <li><Link className="initiate-scripts" to={'/deposit-interest'}>Deposit Interest Rate</Link></li>
                                         <li><a class="initiate-scripts" href="https://phoenix-it.co.in/depositcalculator/" target="_blank">Deposit Calculator</a></li>
                                     </ul>
