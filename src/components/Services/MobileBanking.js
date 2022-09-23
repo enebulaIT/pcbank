@@ -13,7 +13,7 @@ class MobileBanking extends Component {
                             <div className="col-lg-8 posts-list">
                                 <div className="single-post">
                                     <div className="blog_details">
-                                        <h4>IFSC : HDFCDCSPCBK (For IMPS / NEFT / RTGS Inward Remittance)</h4>
+                                        <h4>IFSC : HDFC0CSPCBK (For IMPS / NEFT / RTGS Inward Remittance)</h4>
                                         <p className="excert">Shree Parswanath Co-op Bank Ltd has started Mobile Banking.</p>
                                         <ul>
                                             <li>Any time Fund transfer using MMID through IMPS&nbsp;(24 X 7)</li>

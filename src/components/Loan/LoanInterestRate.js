@@ -26,17 +26,17 @@ class LoanInterestRate extends Component {
                                                 </tr>
                                                 <tr>
                                                     <td>1</td>
-                                                    <td><strong>Cash Credit</strong></td>
-                                                    <td>9.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>2</td>
                                                     <td><strong>Housing Loan</strong></td>
                                                     <td>8.00%</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>3</td>
+                                                    <td>2</td>
                                                     <td><strong>Secured OD</strong></td>
+                                                    <td>9.50%</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>3</td>
+                                                    <td><strong>Cash Credit</strong></td>
                                                     <td>9.50%</td>
                                                 </tr>
                                                 <tr>
@@ -51,28 +51,28 @@ class LoanInterestRate extends Component {
                                                 </tr>
                                                 <tr>
                                                     <td>6</td>
-                                                    <td><strong>4 wheeler Loan(Old)</strong></td>
-                                                    <td>10.00%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>7</td>
-                                                    <td><strong>2 wheeler Loan</strong></td>
-                                                    <td>11.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>8</td>
-                                                    <td><strong>Consumer Loan</strong></td>
-                                                    <td>10.50%</td>
-                                                </tr>
-                                                <tr>
-                                                    <td>9</td>
                                                     <td><strong>Mortgage Loan</strong></td>
                                                     <td>9.50%</td>
                                                 </tr>
                                                 <tr>
-                                                    <td>10</td>
+                                                    <td>7</td>
                                                     <td><strong>4 wheeler Loan(New)</strong></td>
                                                     <td>8.00%</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>8</td>
+                                                    <td><strong>4 wheeler Loan(Old)</strong></td>
+                                                    <td>10.00%</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>9</td>
+                                                    <td><strong>2 wheeler Loan</strong></td>
+                                                    <td>11.50%</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>10</td>
+                                                    <td><strong>Consumer Loan</strong></td>
+                                                    <td>10.50%</td>
                                                 </tr>
                                             </tbody>
                                         </table>
