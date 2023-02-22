@@ -15,7 +15,7 @@ class LoanInterestRate extends Component {
                                     <div className="blog_details">
                                         <h4>Loan Interest Rate</h4>
                                         <p>&nbsp;</p>
-                                        <p><strong>Interest rate on Advances Effective From Dt:07-09-2022</strong></p>
+                                        <p><strong>Interest rate on Advances Effective From Dt:01-01-2023</strong></p>
                                         <p>&nbsp;</p>
                                         <table border="" class="fnt-13" id="t01">
                                             <tbody>
@@ -27,7 +27,7 @@ class LoanInterestRate extends Component {
                                                 <tr>
                                                     <td>1</td>
                                                     <td><strong>Housing Loan</strong></td>
-                                                    <td>8.00%</td>
+                                                    <td>8.50%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>2</td>
@@ -47,7 +47,7 @@ class LoanInterestRate extends Component {
                                                 <tr>
                                                     <td>5</td>
                                                     <td><strong>Term Loan</strong></td>
-                                                    <td>9.50%</td>
+                                                    <td>9.00%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>6</td>
@@ -56,13 +56,13 @@ class LoanInterestRate extends Component {
                                                 </tr>
                                                 <tr>
                                                     <td>7</td>
-                                                    <td><strong>4 wheeler Loan(New)</strong></td>
-                                                    <td>8.00%</td>
+                                                    <td><strong>4 wheeler Loan(Old)</strong></td>
+                                                    <td>11.00%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>8</td>
-                                                    <td><strong>4 wheeler Loan(Old)</strong></td>
-                                                    <td>10.00%</td>
+                                                    <td><strong>4 wheeler Loan(New)</strong></td>
+                                                    <td>9.00%</td>
                                                 </tr>
                                                 <tr>
                                                     <td>9</td>

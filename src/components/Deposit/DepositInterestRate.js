@@ -18,7 +18,7 @@ class DepositInterestRate extends Component {
                                         <table border="1" id="t01">
                                             <tbody>
                                                 <tr>
-                                                    <th colspan="5">Rate of interest on Fixed Deposits from 29/07/2022
+                                                    <th colspan="5">Rate of interest on Fixed Deposits from 22/12/2022
                                                     </th>
                                                 </tr>
                                                 <tr>
@@ -48,29 +48,29 @@ class DepositInterestRate extends Component {
                                                 <tr>
                                                     <td>3</td>
                                                     <td>181 days to 364 Days</td>
-                                                    <td>4.50 %</td>
-                                                    <td>4.50 %</td>
+                                                    <td>5.00 %</td>
+                                                    <td>5.00 %</td>
                                                 </tr>
 
                                                 <tr>
                                                     <td>4</td>
                                                     <td>1 Year</td>
-                                                    <td>5.75 %</td>
-                                                    <td>6.00 %</td>
+                                                    <td>6.25 %</td>
+                                                    <td>6.50 %</td>
                                                 </tr>
 
                                                 <tr>
                                                     <td>5</td>
                                                     <td>2 Year</td>
-                                                    <td>5.75 %</td>
-                                                    <td>6.00 %</td>
+                                                    <td>6.25 %</td>
+                                                    <td>6.50 %</td>
                                                 </tr>
 
                                                 <tr>
                                                     <td>6</td>
                                                     <td>3 Year</td>
-                                                    <td>6.00 %</td>
                                                     <td>6.50 %</td>
+                                                    <td>7.00 %</td>
                                                 </tr>
                                             </tbody>
                                         </table>

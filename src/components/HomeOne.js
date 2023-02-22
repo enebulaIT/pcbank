@@ -3,15 +3,7 @@ import Section from "./layouts/Section";
 import Banner from "./layouts/Banner";
 import MoneyOption from "./layouts/MoneyOption";
 import AboutArea from "./layouts/AboutArea";
-import ServiceArea from "./layouts/ServiceArea";
-import PricingArea from "./layouts/PricingArea";
 import FunFactArea from "./layouts/FunFactArea";
-import TransactionArea from "./layouts/TransactionArea";
-import WorkArea from "./layouts/WorkArea";
-import PaymentArea from "./layouts/PaymentArea";
-import InvestorArea from "./layouts/InvestorArea";
-import BlogArea from "./layouts/BlogArea";
-import PartnerArea from "./layouts/PartnerArea";
 
 class HomeOne extends Component {
     render() {
@@ -21,11 +13,6 @@ class HomeOne extends Component {
                 <MoneyOption design={'home_1'} />
                 <FunFactArea />
                 <AboutArea design={'home_1'} />
-                {/* <ServiceArea design={'home_1'} /> */}
-                {/* <WorkArea /> */}
-                {/* <InvestorArea design={'home_1'} /> */}
-                {/* <BlogArea design={'home_1'} /> */}
-                {/* <PartnerArea /> */}
             </Section>
         );
     }
