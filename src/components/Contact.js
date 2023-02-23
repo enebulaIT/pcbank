@@ -39,7 +39,8 @@ class Contact extends Component {
                                     </div>
                                     <div className="content">
                                         <h4 className="title">Email Address</h4>
-                                        <span className="details"><a href="mailto:admin@pcbank-rajkot.com">admin@pcbank-rajkot.com</a></span>
+                                        <span className="details"><a href="mailto:info@pcbank-rajkot.com">info@pcbank-rajkot.com</a></span>
+                                        <span className="details"><a href="mailto:manager@pcbank-rajkot.com">manager@pcbank-rajkot.com</a></span>
                                     </div>
                                 </div>
                             </div>

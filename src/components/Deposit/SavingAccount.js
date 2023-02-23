@@ -16,7 +16,6 @@ class SavingAccount extends Component {
                                         <h4>Saving Account
                                         </h4>
                                         <ul>
-                                            <li>We offer 3.00&nbsp;% Interest on Savings Bank Deposit.</li>
                                             <li>Customer can open Saving Account with minimum balance or Rs.1000.</li>
                                             <li>Customer has to maintain minimum balance or Rs.1000/-</li>
                                             <li>We also open zero balance saving account with certain conditions/ limited transaction.</li>
