@@ -51,16 +51,26 @@ class FixedDeposit extends Component {
                                         </ul>
                                         <p>(A) Photo Proof (Any One)</p>
                                         <ul>
-                                            <li><strong>1</strong>.Pan Card <strong>2.</strong>Passport,
-                                                <strong>3</strong>.Driving License, <strong>4</strong>.Voter ID Card, <strong>5</strong>.Government Approved
-                                                College/university I.Card, <strong>6</strong>. Government/Semi government/Department I.Card</li>
+                                            <li>
+                                                <strong>1.</strong>Pan Card (Mandatory)&nbsp;
+                                                <strong>2.</strong>Passport,&nbsp;
+                                                <strong>3.</strong>Driving License,&nbsp; 
+                                                <strong>4.</strong>Voter ID Card,&nbsp;
+                                                <strong>5.</strong>Government Approved College/university I.Card,&nbsp; 
+                                                <strong>6.</strong>Government/Semi government/Department I.Card&nbsp;
+                                            </li>
                                         </ul>
                                         <p>(B) Address Proof(Any One)</p>
                                         <ul>
-                                            <li><strong>1</strong>. Aadhar Card&nbsp;<strong>2.</strong>Passport,&nbsp;<strong>3</strong>.Driving
-                                                License,&nbsp;<strong>4</strong>.Voter ID Card <strong>5.</strong>Electricity Bill (not more than 2 months
-                                                old) <strong>6</strong>. BSNL Landline Telephone Bill (not more than 2 months old)
-                                                <strong>7</strong>.Municipal Tax Bill</li>
+                                            <li>
+                                                <strong>1.</strong>Aadhar Card (Mandatory)&nbsp;
+                                                <strong>2.</strong>Passport,&nbsp;
+                                                <strong>3.</strong>Driving License,&nbsp;
+                                                <strong>4.</strong>Voter ID Card&nbsp;
+                                                <strong>5.</strong>Electricity Bill (not more than 2 months old)&nbsp;
+                                                <strong>6.</strong>BSNL Landline Telephone Bill (not more than 2 months old)&nbsp;
+                                                <strong>7.</strong>Municipal Tax Bill&nbsp;
+                                            </li>
                                         </ul>
                                         <p>&nbsp;</p>
                                         <ul>
@@ -69,9 +79,6 @@ class FixedDeposit extends Component {
                                             <li><strong>Birth Certificate for minor a/c.</strong></li>
                                             <li><strong>Senior Citizens have to produce age proof to avail 0.50% Interest Rate benefit.</strong></li>
                                         </ul>
-                                        <p>Download Form</p>
-                                        <p>Download A/c Opening Form</p>
-                                        <p>Download A/c Opening Card</p>
                                     </div>
                                 </div>
                             </div>

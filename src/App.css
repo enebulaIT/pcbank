@@ -60,3 +60,7 @@ table.custom-investor-table {
     display: block;
     font-size: 20px;
 }
+
+table#interestrate, table#depointerestrate {
+    width: 100%;
+}

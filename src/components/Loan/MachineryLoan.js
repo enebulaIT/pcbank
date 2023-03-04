@@ -66,6 +66,9 @@ class MachineryLoan extends Component {
                                                 Bank will sanction loan 90% of quotation amount for new machinery. Applicant has to deposit margin money
                                                 with bank. Bank will issue banker cheque to dealer.</li>
                                             <li>
+                                                HPA required "Shree Parswanath co.op. Bank Ltd" in original invoice.</li>
+
+                                            <li>
                                                 Loan will be repaid with interest within 60 equal monthly instalments.</li>
                                             <li>
                                                 Applicant has to submit 60 cheques for repayment of instalments and remaining cheques as per bank's

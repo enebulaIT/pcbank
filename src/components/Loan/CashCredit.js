@@ -24,7 +24,7 @@ class CashCredit extends Component {
                                             Cash credit Applicant details :</h4>
                                         <ul>
                                             <li>
-                                                Copy of Income tax return of last three year along with balance sheet.</li>
+                                                Copy of Income tax return of last three year along with balance sheet and GST Return Copy.</li>
                                             <li>
                                                 Provisional Balance Sheet (If required).</li>
                                             <li>
@@ -86,6 +86,9 @@ class CashCredit extends Component {
                                                 to pay their fees.</li>
                                             <li>
                                                 Applicant has to take share @ 2.5% of the limit.</li>
+                                            
+                                            <li>
+                                                Stock statement to be submitted every next month before date of 10th.</li>
                                         </ul>
                                     </div>
                                 </div>

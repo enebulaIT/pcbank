@@ -10,18 +10,8 @@ class BlogSidebarArea extends Component {
                     <h4 className="widget_title">Services</h4>
                     <ul className="list cat-list">
                         <li>
-                            <Link to={'/mobile-banking'} className="d-flex initiate-scripts">
-                                <p>Mobile Banking</p>
-                            </Link>
-                        </li>
-                        <li>
                             <Link to={'/rtgs'} className="d-flex initiate-scripts">
                                 <p>RTGS/NEFT</p>
-                            </Link>
-                        </li>
-                        <li>
-                            <Link to={'/imps'} className="d-flex initiate-scripts">
-                                <p>IMPS</p>
                             </Link>
                         </li>
                         <li>

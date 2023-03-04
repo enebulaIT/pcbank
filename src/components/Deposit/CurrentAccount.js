@@ -99,6 +99,9 @@ class CurrentAccount extends Component {
                                             <li>
                                                 <strong>Any other Government Approved document.</strong>
                                             </li>
+                                            <li>
+                                                <strong>Aadhar card copy.</strong>
+                                            </li>
                                         </ul>
                                         <h4>
                                             Download Form</h4>

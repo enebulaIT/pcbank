@@ -19,7 +19,7 @@ class PropertyLoan extends Component {
                                         <ul>
                                             <li>
                                                 Last three years balance sheet, copy of income tax return, copy of Partner’s personal return , Memorandum
-                                                and Article of Association in case of limited company, resolution for loan application.</li>
+                                                and Article of Association in case of limited company, resolution for loan application, GST Return copy.</li>
                                             <li>
                                                 Three photographs of Applicant</li>
                                             <li>
@@ -69,14 +69,12 @@ class PropertyLoan extends Component {
                                             <li>
                                                 applicant has to provide two guarantors.</li>
                                             <li>
-                                                business-mortgage loan is to be repaid with interest within 84 equal monthly instalments. whereas business
-                                                mortgage overdraft facility is subject to maximum after 12 months.</li>
+                                                Business-mortgage loan is to be repaid with interest within 84 equal monthly instalments.</li>
                                             <li>
                                                 Limit will be decided on turn over basis as per bank rules or 70% of the value of the property , whichever
                                                 is less.</li>
                                             <li>
-                                                Applicant is required to submit stock statement creditors list and statement of book-debts on monthly basis
-                                                and the copy of balance sheet as on 31st march every year.</li>
+                                                Applicant is required to submit the copy of balance sheet as on 31st march every year.</li>
                                             <li>
                                                 Aplicant has to take share @ 2.5% of the limit.</li>
                                         </ul>

@@ -25,11 +25,8 @@ class Navbar extends Component {
                                 <li><Link className="initiate-scripts" to={'/about'}>About Us</Link></li>
                                 <li className="menu-item-has-children"><Link className="initiate-scripts" to={'/services'}>Services</Link>
                                     <ul className="sub-menu">
-                                        <li><Link className="initiate-scripts" to={'/mobile-banking'}>Mobile Banking</Link></li>
                                         <li><Link className="initiate-scripts" to={'/rtgs'}>RTGS/NEFT</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/imps'}>IMPS</Link></li>
                                         <li><Link className="initiate-scripts" to={'/sms'}>SMS Alert</Link></li>
-                                        <li><Link className="initiate-scripts" to={'/govt-tax-collection'}>Govt TAX Collection</Link></li>
                                         <li><Link className="initiate-scripts" to={'/pmjjby-pmsby'}>PMJJBY/PMSBY</Link></li>
                                         <li><Link className="initiate-scripts" to={'/nach-ach'}>NACH/ACH/ABPS</Link></li>
                                         <li><Link className="initiate-scripts" to={'/core-banking'}>Core Banking</Link></li>

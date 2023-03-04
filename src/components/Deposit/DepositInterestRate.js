@@ -15,7 +15,7 @@ class DepositInterestRate extends Component {
                                     <div className="blog_details">
                                         <h4>Deposit Interest Rate
                                         </h4>
-                                        <table border="1" id="t01">
+                                        <table border="1" id="depointerestrate">
                                             <tbody>
                                                 <tr>
                                                     <th colspan="5">Rate of interest on Fixed Deposits from 22/12/2022

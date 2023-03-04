@@ -41,6 +41,8 @@ class HousingLoan extends Component {
                                             <li>
                                                 Copy of PAN Card</li>
                                             <li>
+                                                Copy of Aadhar Card</li>
+                                            <li>
                                                 Address proof – electric bill /telephone bill (any one)</li>
                                             <li>
                                                 Photo proof – Pan card / Voter card / Driving license (Any one)</li>

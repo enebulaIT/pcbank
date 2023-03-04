@@ -76,6 +76,8 @@ class VehicleLoan extends Component {
                                                 recorded with RTO.</li>
                                             <li>
                                                 Applicant has to take share @ 2.5% of the limit.</li>
+                                            <li>
+                                                HPA required in original invoice by name of "Shree Parswanath co.op. Bank Ltd" .</li>
                                         </ul>
                                     </div>
                                 </div>

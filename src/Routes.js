@@ -7,9 +7,7 @@ import Services from "./components/Services";
 import Blog from "./components/Blog";
 import BlogSingle from "./components/BlogSingle";
 import Contact from "./components/Contact";
-import MobileBanking from "./components/Services/MobileBanking";
 import RTGS from "./components/Services/Rtgs";
-import IMPS from "./components/Services/Imps";
 import SMSAlert from "./components/Services/SMSAlert";
 
 import SavingAccount from "./components/Deposit/SavingAccount";
@@ -22,10 +20,8 @@ import HousingLoan from "./components/Loan/HousingLoan";
 import PropertyLoan from "./components/Loan/PropertyLoan";
 import MachineryLoan from "./components/Loan/MachineryLoan";
 import VehicleLoan from "./components/Loan/VehicleLoan";
-import HigherEducationLoan from "./components/Loan/HigherEducationLoan";
 import CashCredit from "./components/Loan/CashCredit";
 import LoanInterestRate from "./components/Loan/LoanInterestRate";
-import GovtTaxCollection from "./components/Services/GovtTaxCollection";
 import PMJJBY from "./components/Services/PMJJBY";
 import NACH from "./components/Services/NACH";
 import CoreBanking from "./components/Services/CoreBanking";
@@ -44,9 +40,7 @@ class Routes extends Component {
                         <Route exact path={'/blog'} render={(props) => (<Blog {...props} />)} />
                         <Route exact path={'/blog-single'} render={(props) => (<BlogSingle {...props} />)} />
                         <Route exact path={'/contact'} render={(props) => (<Contact {...props} />)} />
-                        <Route exact path={'/mobile-banking'} render={(props) => (<MobileBanking {...props} />)} />
                         <Route exact path={'/rtgs'} render={(props) => (<RTGS {...props} />)} />
-                        <Route exact path={'/imps'} render={(props) => (<IMPS {...props} />)} />
                         <Route exact path={'/sms'} render={(props) => (<SMSAlert {...props} />)} />
 
                         <Route exact path={'/saving-account'} render={(props) => (<SavingAccount {...props} />)} />
@@ -55,7 +49,6 @@ class Routes extends Component {
                         {/* <Route exact path={'/reccuring-deposit'} render={(props) => (<ReccuringDeposit {...props} />)} /> */}
                         <Route exact path={'/deposit-interest'} render={(props) => (<DepositInterestRate {...props} />)} />
                         <Route exact path={'/deposit-calculator'} render={(props) => (<SMSAlert {...props} />)} />
-                        <Route exact path={'/govt-tax-collection'} render={(props) => (<GovtTaxCollection {...props} />)} />
                         <Route exact path={'/pmjjby-pmsby'} render={(props) => (<PMJJBY {...props} />)} />
                         <Route exact path={'/nach-ach'} render={(props) => (<NACH {...props} />)} />
                         <Route exact path={'/core-banking'} render={(props) => (<CoreBanking {...props} />)} />

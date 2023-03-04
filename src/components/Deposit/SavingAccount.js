@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Section from "../layouts/Section";
-import { Link } from "react-router-dom";
 import BlogSidebarArea from "../layouts/BlogSidebarArea";
 
 class SavingAccount extends Component {
@@ -55,20 +54,15 @@ class SavingAccount extends Component {
                                                 government/Department I.Card
                                             </li>
                                             <li>(B) Address Proof(Any One)<br />
-                                                <strong>1</strong>. Aadhaar card <strong>2</strong>. Electricity Bill (not more than 2 months old) <strong>3</strong>. BSNL Landline
+                                                <strong>1</strong>. Aadhaar card (Mandatory) <strong>2</strong>. Electricity Bill (not more than 2 months old) <strong>3</strong>. BSNL Landline
                                                 Telephone Bill (not more than 2 months old), <strong>4</strong>. Municipal Tax Bill <strong>5</strong>. GSPC
                                                 Gas Bill <strong>6</strong>. Latest LIC Premium receipt
                                             </li>
                                             <li>Other proof acceptable by Bank.</li>
                                             <li><strong>Passport Size Photograph 4 Copies</strong></li>
-                                            {/* <li><strong>Pan Card </strong></li> */}
                                             <li><strong>Birth Certificate for minor account </strong></li>
                                             <li>Introduction From Existing account Holder</li>
-                                            {/* <li>Aadhar Card</li> */}
                                         </ul>
-                                        <p>Download Form</p>
-                                        <p>Download A/c Opening Form</p>
-                                        <p>Download A/c Opening Card</p>
                                     </div>
                                 </div>
                             </div>

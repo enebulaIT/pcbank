@@ -47,7 +47,7 @@ class AboutArea extends Component {
                                 <tbody>
                                     <tr>
                                         <td>1</td>
-                                        <td>Ghanshyambhai G. Dholakiya(C.A)</td>
+                                        <td>Ghanshyambhai G. Dholakiya(CA)</td>
                                         <td>Chairman</td>
                                     </tr>
                                     <tr>
