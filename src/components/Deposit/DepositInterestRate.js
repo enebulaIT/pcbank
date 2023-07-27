@@ -55,22 +55,22 @@ class DepositInterestRate extends Component {
                                                 <tr>
                                                     <td>4</td>
                                                     <td>1 Year</td>
-                                                    <td>6.25 %</td>
-                                                    <td>6.50 %</td>
+                                                    <td>6.75 %</td>
+                                                    <td>7.00 %</td>
                                                 </tr>
 
                                                 <tr>
                                                     <td>5</td>
                                                     <td>2 Year</td>
-                                                    <td>6.25 %</td>
-                                                    <td>6.50 %</td>
+                                                    <td>6.75 %</td>
+                                                    <td>7.00 %</td>
                                                 </tr>
 
                                                 <tr>
                                                     <td>6</td>
                                                     <td>3 Year</td>
-                                                    <td>6.50 %</td>
                                                     <td>7.00 %</td>
+                                                    <td>7.50 %</td>
                                                 </tr>
                                             </tbody>
                                         </table>

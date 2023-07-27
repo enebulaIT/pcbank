@@ -79,7 +79,7 @@ class About extends Component {
                         <div className="row justify-content-center">
                             <div className="col-lg-8 text-center">
                                 <div className={this.props.design === 'home_2' ? 'section-title section-title-3' : 'section-title'}>
-                                    <h6 className="subtitle subtitle-thumb">Details of Board of Directors as on 31.08.2022</h6>
+                                    <h6 className="subtitle subtitle-thumb">Details of Board of Directors as on 11.07.2023</h6>
                                     {/* <h2 className="title">Top Invester of E-Banking</h2>
                             <p>Bankdipscing elitr, sed diam nonumy eirmod et accusam et justo duo dolores et ea rebum. tet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> */}
                                 </div>
@@ -104,48 +104,53 @@ class About extends Component {
                                         </tr>
                                         <tr>
                                             <td>2</td>
-                                            <td>Piyushbhai I. Mehta</td>
-                                            <td>Managing Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
                                             <td>Subhashbhai Bavishi</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>4</td>
+                                            <td>3</td>
                                             <td>Chandreshbhai R Mehta</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>5</td>
+                                            <td>4</td>
                                             <td>Samirbhai M. Patel</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>6</td>
+                                            <td>5</td>
                                             <td>Frenyben N. Parekh (CA)</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>7</td>
+                                            <td>6</td>
                                             <td>Nalinbhai T. Zaveri</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>8</td>
+                                            <td>7</td>
                                             <td>Hareshbhai K. Vora</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>9</td>
+                                            <td>8</td>
                                             <td>Anilbhai Desai (Advocate)</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>10</td>
+                                            <td>9</td>
                                             <td>Dhruvikbhai G. Talavia</td>
                                             <td>Director</td>
+                                        </tr>
+                                        <tr>
+                                            <td>10</td>
+                                            <td>Shilaben P. Mehta</td>
+                                            <td>Coopt Director</td>
+                                        </tr>
+                                        <tr>
+                                            <td>11</td>
+                                            <td>Vijaybhai N. Amlani</td>
+                                            <td>Coopt Director</td>
                                         </tr>
                                     </tbody>
                                 </table>
