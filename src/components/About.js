@@ -104,8 +104,8 @@ class About extends Component {
                                         </tr>
                                         <tr>
                                             <td>2</td>
-                                            <td>Subhashbhai Bavishi</td>
-                                            <td>Director</td>
+                                            <td>Hareshbhai K. Vora</td>
+                                            <td>Vice-Chairman</td>
                                         </tr>
                                         <tr>
                                             <td>3</td>
@@ -129,7 +129,7 @@ class About extends Component {
                                         </tr>
                                         <tr>
                                             <td>7</td>
-                                            <td>Hareshbhai K. Vora</td>
+                                            <td>Subhashbhai Bavishi</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
