@@ -114,41 +114,31 @@ class About extends Component {
                                         </tr>
                                         <tr>
                                             <td>4</td>
-                                            <td>Samirbhai M. Patel</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5</td>
                                             <td>Frenyben N. Parekh (CA)</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>6</td>
-                                            <td>Nalinbhai T. Zaveri</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>7</td>
+                                            <td>5</td>
                                             <td>Subhashbhai Bavishi</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>8</td>
+                                            <td>6</td>
                                             <td>Anilbhai Desai (Advocate)</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>9</td>
+                                            <td>7</td>
                                             <td>Dhruvikbhai G. Talavia</td>
                                             <td>Director</td>
                                         </tr>
                                         <tr>
-                                            <td>10</td>
+                                            <td>8</td>
                                             <td>Shilaben P. Mehta</td>
                                             <td>Coopt Director</td>
                                         </tr>
                                         <tr>
-                                            <td>11</td>
+                                            <td>9</td>
                                             <td>Vijaybhai N. Amlani</td>
                                             <td>Coopt Director</td>
                                         </tr>
