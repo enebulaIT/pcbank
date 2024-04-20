@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Section from "./layouts/Section";
+import { directorList } from "../directorList";
 
 class About extends Component {
     render() {
@@ -79,9 +80,7 @@ class About extends Component {
                         <div className="row justify-content-center">
                             <div className="col-lg-8 text-center">
                                 <div className={this.props.design === 'home_2' ? 'section-title section-title-3' : 'section-title'}>
-                                    <h6 className="subtitle subtitle-thumb">Details of Board of Directors as on 11.07.2023</h6>
-                                    {/* <h2 className="title">Top Invester of E-Banking</h2>
-                            <p>Bankdipscing elitr, sed diam nonumy eirmod et accusam et justo duo dolores et ea rebum. tet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p> */}
+                                    <h6 className="subtitle subtitle-thumb">Details of Board of Directors as on 31.03.2024</h6>
                                 </div>
                             </div>
                         </div>
@@ -97,51 +96,15 @@ class About extends Component {
                                     </thead>
 
                                     <tbody>
-                                        <tr>
-                                            <td>1</td>
-                                            <td>Ghanshyambhai G. Dholakiya(CA)</td>
-                                            <td>Chairman</td>
-                                        </tr>
-                                        <tr>
-                                            <td>2</td>
-                                            <td>Hareshbhai K. Vora</td>
-                                            <td>Vice-Chairman</td>
-                                        </tr>
-                                        <tr>
-                                            <td>3</td>
-                                            <td>Chandreshbhai R Mehta</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>4</td>
-                                            <td>Frenyben N. Parekh (CA)</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>5</td>
-                                            <td>Subhashbhai Bavishi</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>6</td>
-                                            <td>Anilbhai Desai (Advocate)</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>7</td>
-                                            <td>Dhruvikbhai G. Talavia</td>
-                                            <td>Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>8</td>
-                                            <td>Shilaben P. Mehta</td>
-                                            <td>Coopt Director</td>
-                                        </tr>
-                                        <tr>
-                                            <td>9</td>
-                                            <td>Vijaybhai N. Amlani</td>
-                                            <td>Coopt Director</td>
-                                        </tr>
+                                        {
+                                            directorList.map((director, index) => (
+                                                <tr>
+                                                    <td>{index + 1}</td>
+                                                    <td>{director.name}</td>
+                                                    <td>{director.designation}</td>
+                                                </tr>
+                                            ))
+                                        }
                                     </tbody>
                                 </table>
                             </div>
