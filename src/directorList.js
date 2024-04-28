@@ -17,30 +17,30 @@ export const directorList = [
     },
     {
         name: 'Shilaben P. Mehta',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     },
     {
         name: 'Vijaybhai N. Amlani',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     },
     {
         name: 'Nileshbhai K. Parekh (C.A.)',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     },
     {
         name: 'Hetalben D. Bavishi',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     },
     {
         name: 'Vaibhavbhai C. Mehta',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     },
     {
         name: 'Kamleshbhai N. Shah (Advocate)',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     },
     {
         name: 'Devjibhai B. Rathod',
-        designation: 'Co.opt Director'
+        designation: 'Director'
     }
 ];
